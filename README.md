@@ -1,103 +1,57 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-
-
-
-# [Project Name] 🎯
-
-
-## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
+StressRelief 🎯
+Basic Details
+Team Name: Tamaar Paadar
+Team Members
+ * Team Lead: Gokul Krishna Shaji - [Your College Name]
+Project Description
+A satirical anti-stress game built in Unity where the gameplay mechanics are intentionally designed to induce maximum stress instead of relieving it. Players enter expecting a calming, peaceful experience only to be met with chaotic obstacles, uncooperative controls, and absurd failure states.
+The Problem (that doesn't exist)
+People are far too relaxed, calm, and composed in their day-to-day lives, leading to a critical shortage of mild panic, chaotic button mashing, and keyboard-smashing incidents.
+The Solution (that nobody asked for)
+A deceptively peaceful Unity game labeled "Stress Relief" that plays serene lo-fi music while throwing impossible physics puzzles, deliberately misleading prompts, and comedic game-over screens directly at the player.
+Technical Details
+Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+ * Languages: C#
+ * Game Engine: Unity (2022 LTS / Unity 6)
+ * Frameworks & Packages: Unity Input System, TextMeshPro, Universal Render Pipeline (URP)
+ * Tools: Visual Studio / VS Code, Git, GitHub, Blender
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
+ * None (Purely Software Project)
+Implementation
 For Software:
-# Installation
-[commands]
+Installation
+# Clone the repository
+git clone https://github.com/[your-username]/[repo-name].git
+cd [repo-name]
 
-# Run
-[commands]
+Run
+1. Open Unity Hub.
+2. Click "Add project from disk" and select the cloned project folder.
+3. Open the project with the corresponding Unity Editor version.
+4. In the Project window, navigate to Assets/Scenes and open MainScene.unity.
+5. Click the "Play" button in the Unity Editor toolbar to run the game (or export via File > Build and Run).
 
-### Project Documentation
-For Software:
+Project Documentation
+Software Overview
+Screenshots
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+The deceptively serene main menu tricking the user into thinking this is a relaxing experience.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+In-game action where counter-intuitive controls and absurd physics mechanics begin triggering stress.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+The sarcastic victory/defeat screen quantifying the player's elevated stress levels.
+Diagrams
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
+Architecture showing player input handling, event state machine, physics/ragdoll triggers, and audio managers.
+Project Demo
+Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-Made with ❤️ at TinkerHub Useless Projects 
-
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
-
-
-
+Demonstrates a player testing the game, showcasing the contrast between the peaceful presentation and rage-inducing mechanics.
+Additional Demos
+ * [Itch.io WebGL Demo Link / Executable Release Link]
+Team Contributions
+ * Gokul Krishna Shaji: Solo developer responsible for total project execution — game concept, C# core scripts, player controls, physics and level design, UI/audio integration, testing, and documentation.
+Made with ❤️ at TinkerHub Useless Projects
